@@ -14,7 +14,7 @@ import { useEffect, useRef } from 'react';
  * 3. Choose "Display ads" 
  * 4. Copy the data-ad-slot value
  */
-export default function AdUnit({ slot = 'XXXXXXXXXX', format = 'auto', style = {} }) {
+export default function AdUnit({ slot = '6207711192', format = 'auto', style = {} }) {
   const adRef = useRef(null);
   const pushed = useRef(false);
 

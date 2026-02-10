@@ -425,7 +425,7 @@ export default function App() {
 
       {/* ── TOP AD — Leaderboard ── */}
       <div style={{ maxWidth: 1100, margin: '16px auto 0', padding: '0 32px' }}>
-        <AdUnit slot="SLOT_LEADERBOARD_TOP" format="horizontal" style={{ minHeight: 90 }} />
+        <AdUnit slot="6207711192" format="horizontal" style={{ minHeight: 90 }} />
       </div>
 
       {/* ── Nav ── */}
@@ -457,7 +457,7 @@ export default function App() {
 
         {/* Left Side Ad */}
         <aside className="side-ad">
-          <AdUnit slot="SLOT_LEFT_SIDEBAR" format="vertical" style={{ minHeight: 600 }} />
+          <AdUnit slot="6207711192" format="vertical" style={{ minHeight: 600 }} />
         </aside>
 
         {/* Main Content */}
@@ -860,7 +860,7 @@ export default function App() {
 
                   {/* MID-CONTENT AD */}
                   <div style={{ marginBottom: 20 }}>
-                    <AdUnit slot="SLOT_MID_CONTENT" format="auto" />
+                    <AdUnit slot="6207711192" format="auto" />
                   </div>
 
                   {/* Vampire Area Chart */}
@@ -1062,7 +1062,7 @@ export default function App() {
 
                   {/* AD between chart and table */}
                   <div style={{ marginBottom: 20 }}>
-                    <AdUnit slot="SLOT_PROJECTION_MID" format="auto" />
+                    <AdUnit slot="6207711192" format="auto" />
                   </div>
 
                   {/* Table */}
@@ -1112,13 +1112,13 @@ export default function App() {
 
         {/* Right Side Ad */}
         <aside className="side-ad">
-          <AdUnit slot="SLOT_RIGHT_SIDEBAR" format="vertical" style={{ minHeight: 600 }} />
+          <AdUnit slot="6207711192" format="vertical" style={{ minHeight: 600 }} />
         </aside>
       </div>
 
       {/* ── BOTTOM AD — Footer ── */}
       <div style={{ maxWidth: 1100, margin: '0 auto', padding: '0 32px 20px' }}>
-        <AdUnit slot="SLOT_FOOTER" format="horizontal" style={{ minHeight: 90 }} />
+        <AdUnit slot="6207711192" format="horizontal" style={{ minHeight: 90 }} />
       </div>
 
       <footer style={{
