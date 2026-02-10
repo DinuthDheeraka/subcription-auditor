@@ -457,7 +457,7 @@ export default function App() {
 
         {/* Left Side Ad */}
         <aside className="side-ad">
-          <AdUnit slot="6207711192" format="vertical" style={{ minHeight: 600 }} />
+          <AdUnit slot="6407865637" format="vertical" style={{ minHeight: 600 }} />
         </aside>
 
         {/* Main Content */}
@@ -1112,7 +1112,7 @@ export default function App() {
 
         {/* Right Side Ad */}
         <aside className="side-ad">
-          <AdUnit slot="6207711192" format="vertical" style={{ minHeight: 600 }} />
+          <AdUnit slot="6407865637" format="vertical" style={{ minHeight: 600 }} />
         </aside>
       </div>
 
