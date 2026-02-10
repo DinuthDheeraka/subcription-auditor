@@ -1,0 +1,20 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="630" viewBox="0 0 1200 630">
+  <rect width="1200" height="630" fill="#0a0a0e"/>
+  <rect x="0" y="0" width="1200" height="4" fill="#e53e3e"/>
+  <rect x="0" y="626" width="1200" height="4" fill="#e53e3e"/>
+  <text x="600" y="220" text-anchor="middle" font-family="system-ui, -apple-system, sans-serif" font-size="72" font-weight="bold" fill="#e8e8ec">
+    <tspan>Subscription</tspan>
+  </text>
+  <text x="600" y="300" text-anchor="middle" font-family="system-ui, -apple-system, sans-serif" font-size="72" font-weight="bold" fill="#e53e3e">
+    <tspan>Auditor</tspan>
+  </text>
+  <text x="600" y="380" text-anchor="middle" font-family="system-ui, -apple-system, sans-serif" font-size="28" fill="#a0a0b0">
+    Your subscriptions are bleeding you dry
+  </text>
+  <text x="600" y="440" text-anchor="middle" font-family="system-ui, -apple-system, sans-serif" font-size="22" fill="#707080">
+    See the true 10-year cost including opportunity cost
+  </text>
+  <text x="600" y="520" text-anchor="middle" font-family="system-ui, -apple-system, sans-serif" font-size="20" fill="#505060">
+    Free &bull; No Signup &bull; Privacy-First
+  </text>
+</svg>
