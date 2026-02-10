@@ -1,4 +1,4 @@
 User-agent: *
 Allow: /
 
-Sitemap: https://subscription-auditor.vercel.app/sitemap.xml
+Sitemap: https://subscription-auditor-ten.vercel.app/sitemap.xml
